@@ -1,0 +1,13 @@
+C:\Users\wyhbjoe\source\repos\ApiHelper\ApiHelper\bin\Debug\ApiHelper.exe.config
+C:\Users\wyhbjoe\source\repos\ApiHelper\ApiHelper\bin\Debug\ApiHelper.exe
+C:\Users\wyhbjoe\source\repos\ApiHelper\ApiHelper\bin\Debug\ApiHelper.pdb
+C:\Users\wyhbjoe\source\repos\ApiHelper\ApiHelper\bin\Debug\RestSharp.dll
+C:\Users\wyhbjoe\source\repos\ApiHelper\ApiHelper\bin\Debug\RestSharp.xml
+C:\Users\wyhbjoe\source\repos\ApiHelper\ApiHelper\obj\Debug\ApiHelper.csprojAssemblyReference.cache
+C:\Users\wyhbjoe\source\repos\ApiHelper\ApiHelper\obj\Debug\ApiHelper.ApiHelper.resources
+C:\Users\wyhbjoe\source\repos\ApiHelper\ApiHelper\obj\Debug\ApiHelper.Properties.Resources.resources
+C:\Users\wyhbjoe\source\repos\ApiHelper\ApiHelper\obj\Debug\ApiHelper.csproj.GenerateResource.cache
+C:\Users\wyhbjoe\source\repos\ApiHelper\ApiHelper\obj\Debug\ApiHelper.csproj.CoreCompileInputs.cache
+C:\Users\wyhbjoe\source\repos\ApiHelper\ApiHelper\obj\Debug\ApiHelper.csproj.CopyComplete
+C:\Users\wyhbjoe\source\repos\ApiHelper\ApiHelper\obj\Debug\ApiHelper.exe
+C:\Users\wyhbjoe\source\repos\ApiHelper\ApiHelper\obj\Debug\ApiHelper.pdb

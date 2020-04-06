@@ -1,0 +1,7 @@
+{
+  "EndPoint": "http://localhost:8080",
+  "Path": "getApi",
+  "Method": "GET",
+  "Header": "Header",
+  "ContentType": "json"
+}
